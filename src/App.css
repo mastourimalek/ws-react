@@ -36,3 +36,49 @@
     transform: rotate(360deg);
   }
 }
+
+/*working with project*/
+
+#welcome {
+  margin: 5% 5% 5% 5%;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  letter-spacing: 5px;
+}
+.phot1 {
+}
+
+.photos {
+  margin: 5% 10% 0% 10%;
+}
+
+.Description {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin: 0% 20% 5% 20%;
+
+  height: 150px;
+  font-size: 130%;
+  color: black;
+  display: flex;
+  align-items: center;
+}
+.Galerie {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 2% 10% 2% 10%;
+}
+.tof {
+  margin-bottom: 5%;
+  border-radius: 1%;
+}
+.contact {
+  margin: 0% 30% 5% 30%;
+  padding-top: 0%;
+}
+.footer {
+  background-color: rgb(219, 241, 233);
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
